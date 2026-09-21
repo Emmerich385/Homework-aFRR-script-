@@ -1,6 +1,6 @@
 ## Foreword
 
-This script was made with the help of ChatGPT. I apologize in advance if this falls short from your expectations. I understand the principles of coding yet I lack sufficient knowledge to know all the neccessary commands by heart.
+This script was made with the help of ChatGPT. I apologize in advance if this falls short from your expectations. I understand the principles of coding yet I lack sufficient knowledge to know all the neccessary commands by heart. Still, I hope you are pleased with my work!
 
 ## Details of the script
 
