@@ -283,7 +283,7 @@ for direction, column in [
 # LAGGED CORRELATION
 # ============================================================
 
-LAG_MINUTES = -15
+LAG_MINUTES = 15
 
 # Your data has 15-minute resolution
 LAG_PERIODS = LAG_MINUTES // 15
